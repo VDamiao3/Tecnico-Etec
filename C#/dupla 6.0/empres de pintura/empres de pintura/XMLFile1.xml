@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<login>
+  <usuario>123</usuario>
+  <senha>123</senha>
+  <tipo>gerente</tipo>
+  <usuario2>321</usuario2>
+  <senha2>321</senha2>
+  <tipo2>funcionario</tipo2>
+</login>

@@ -1,0 +1,10 @@
+crunch 8 8 0123456789 -t @@@@@@@@ 'diretorio/nomearquivo.txt'
+
+wifite
+wifite -dict 'diretorio'
+
+systemctl --user enable pulseaudio
+systemctl --user status pulseaudio
+pulseadio -D
+
+ln -s origem/local/arquivo destino/para/atalho

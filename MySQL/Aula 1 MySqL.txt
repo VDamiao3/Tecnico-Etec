@@ -1,0 +1,115 @@
+> /*Aula inicial de MySQL;
+   /*> Criação de banco de dados;
+   /*> Utilização do banco de dados;
+   /*> Criação de tabelas;
+   /*> Ligação entre tabelas;
+   /*> */
+>
+> /*Disciplina: TECNICAS E LINGUAGENS DE BANCO DE DADOS*/
+>
+> /*Observações :
+   /*> - todo comando MySQL pode ser redigido em maiúscula ou minúsculas;
+   /*> - após redigir o comando é necessário finalizar a operação com
+   /*> ponto e vírgula(;);
+   /*> - para que comece a realizar a programação SQL é
+   /*> necessário colocar o banco de dados em funcionamento;
+   /*> - uma vez redigito de forma errada o comando e teclado 'enter'
+   /*> não é possível fazer correções, sendo assim, é necessário digitar
+   /*> o ';' e apertar 'enter' e digitar o comando novamente.
+   /*> */
+>> /* CRIAÇÃO DO BANCO DE DADOS */
+>
+> CREATE DATABASE empresateste;
+Query OK, 1 row affected (0.53 sec)
+
+> /* COLOCO O BANCO DE DADOS EM FUNCIONAMENTO*/
+>
+> USE empresateste;
+Database changed
+>
+> /* CRIANDO TABELAS NO BANCO DE DADOS*/
+>
+> CREATE TABLE telefone (Tcod int not null primary key auto_increment,
+    -> Tres char(10),
+    -> Tcel char(11) not null);
+Query OK, 0 rows affected (2.96 sec)
+
+> dsec telefone;
+
+> desc telefone;
++-------+----------+------+-----+---------+----------------+
+| Field | Type     | Null | Key | Default | Extra          |
++-------+----------+------+-----+---------+----------------+
+| Tcod  | int(11)  | NO   | PRI | NULL    | auto_increment |
+| Tres  | char(10) | YES  |     | NULL    |                |
+| Tcel  | char(11) | NO   |     | NULL    |                |
++-------+----------+------+-----+---------+----------------+
+3 rows in set (1.60 sec)
+
+> CREATE TABLE endereco (Ecod int not null primary key auto_increment,
+    -> Erua varchar(50) not null,
+    -> Enum varchar(6),
+    -> Ebairro varchar(30) not null,
+    -> Ecidade varchar(20) not null,
+    -> Ecep char(8) not null,
+    -> Eestado char(2) not null);
+Query OK, 0 rows affected (0.88 sec)
+
+> desc endereco;
++---------+-------------+------+-----+---------+----------------+
+| Field   | Type        | Null | Key | Default | Extra          |
++---------+-------------+------+-----+---------+----------------+
+| Ecod    | int(11)     | NO   | PRI | NULL    | auto_increment |
+| Erua    | varchar(50) | NO   |     | NULL    |                |
+| Enum    | varchar(6)  | YES  |     | NULL    |                |
+| Ebairro | varchar(30) | NO   |     | NULL    |                |
+| Ecidade | varchar(20) | NO   |     | NULL    |                |
+| Ecep    | char(8)     | NO   |     | NULL    |                |
+| Eestado | char(2)     | NO   |     | NULL    |                |
++---------+-------------+------+-----+---------+----------------+
+7 rows in set (0.11 sec)
+
+>
+> /*TRABALHANDO TABELAS COM CHAVES ESTRANGEIRAS*/
+>
+> CREATE TABLE aluno(Ara int not null primary key auto_increment,
+    -> Anome varchar(50) not null,
+    -> Asexo char(1) not null,
+    -> Acpf char(11),
+    -> Arg char(11) not null,
+    -> Adtnasc date,
+    -> Atelefone int,
+    -> Aendereco int,
+    -> foreign key (Atelefone) references telefone (Tcod),
+    -> foreign key (Aendereco) references endereco (Ecod)
+    -> );
+Query OK, 0 rows affected (1.22 sec)
+
+> desc aluno
+    -> ;
++-----------+-------------+------+-----+---------+----------------+
+| Field     | Type        | Null | Key | Default | Extra          |
++-----------+-------------+------+-----+---------+----------------+
+| Ara       | int(11)     | NO   | PRI | NULL    | auto_increment |
+| Anome     | varchar(50) | NO   |     | NULL    |                |
+| Asexo     | char(1)     | NO   |     | NULL    |                |
+| Acpf      | char(11)    | YES  |     | NULL    |                |
+| Arg       | char(11)    | NO   |     | NULL    |                |
+| Adtnasc   | date        | YES  |     | NULL    |                |
+| Atelefone | int(11)     | YES  | MUL | NULL    |                |
+| Aendereco | int(11)     | YES  | MUL | NULL    |                |
++-----------+-------------+------+-----+---------+----------------+
+8 rows in set (0.40 sec)
+
+> CREATE TABLE funcionario(Frf int not null primary key auto_increment,
+    -> Fnome varchar(50) not null,
+    -> Frg char(11) not null,
+    -> Fcpf char(11) not null,
+    -> Fdtnasc date not null,
+    -> Fsexo char(1) not null,
+    -> Fcargo varchar(20) not null,
+    -> Ftel int,
+    -> Fendereco int,
+    -> foreign key (Ftel) references telefone (Tcod),
+    -> foreign key (Fendereco) references endereco (Ecod)
+    -> );

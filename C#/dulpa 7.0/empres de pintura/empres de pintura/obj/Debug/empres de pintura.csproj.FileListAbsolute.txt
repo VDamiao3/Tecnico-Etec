@@ -1,0 +1,29 @@
+K:\Etec JK\Técnico\Jeferson\dupla 6.0\empres de pintura\empres de pintura\bin\Debug\empres de pintura.exe.config
+K:\Etec JK\Técnico\Jeferson\dupla 6.0\empres de pintura\empres de pintura\obj\Debug\empres de pintura.exe
+K:\Etec JK\Técnico\Jeferson\dupla 6.0\empres de pintura\empres de pintura\obj\Debug\empres de pintura.pdb
+K:\Etec JK\Técnico\Jeferson\dupla 6.0\empres de pintura\empres de pintura\bin\Debug\empres de pintura.exe
+K:\Etec JK\Técnico\Jeferson\dupla 6.0\empres de pintura\empres de pintura\bin\Debug\empres de pintura.pdb
+K:\Etec JK\Técnico\Jeferson\dupla 6.0\empres de pintura\empres de pintura\bin\Debug\MySql.Data.dll
+K:\Etec JK\Técnico\Jeferson\dupla 6.0\empres de pintura\empres de pintura\obj\Debug\empres de pintura.csprojResolveAssemblyReference.cache
+K:\Etec JK\Técnico\Jeferson\dupla 6.0\empres de pintura\empres de pintura\obj\Debug\empres_de_pintura.Cadastro.resources
+K:\Etec JK\Técnico\Jeferson\dupla 6.0\empres de pintura\empres de pintura\obj\Debug\empres_de_pintura.Login.resources
+K:\Etec JK\Técnico\Jeferson\dupla 6.0\empres de pintura\empres de pintura\obj\Debug\empres_de_pintura.Gerente.resources
+K:\Etec JK\Técnico\Jeferson\dupla 6.0\empres de pintura\empres de pintura\obj\Debug\empres_de_pintura.Funcionario.resources
+K:\Etec JK\Técnico\Jeferson\dupla 6.0\empres de pintura\empres de pintura\obj\Debug\empres_de_pintura.Properties.Resources.resources
+K:\Etec JK\Técnico\Jeferson\dupla 6.0\empres de pintura\empres de pintura\obj\Debug\empres de pintura.csproj.GenerateResource.Cache
+C:\Users\VDamiao\Desktop\dupla 6.0\empres de pintura\empres de pintura\bin\Debug\empres de pintura.exe.config
+C:\Users\VDamiao\Desktop\dupla 6.0\empres de pintura\empres de pintura\obj\Debug\empres de pintura.exe
+C:\Users\VDamiao\Desktop\dupla 6.0\empres de pintura\empres de pintura\obj\Debug\empres de pintura.pdb
+C:\Users\VDamiao\Desktop\dupla 6.0\empres de pintura\empres de pintura\bin\Debug\empres de pintura.exe
+C:\Users\VDamiao\Desktop\dupla 6.0\empres de pintura\empres de pintura\bin\Debug\empres de pintura.pdb
+C:\Users\VDamiao\Desktop\dupla 6.0\empres de pintura\empres de pintura\bin\Debug\MySql.Data.dll
+C:\Users\VDamiao\Desktop\dupla 6.0\empres de pintura\empres de pintura\obj\Debug\empres de pintura.csprojResolveAssemblyReference.cache
+C:\Users\VDamiao\Desktop\dupla 6.0\empres de pintura\empres de pintura\obj\Debug\empres_de_pintura.Login.resources
+C:\Users\VDamiao\Desktop\dupla 6.0\empres de pintura\empres de pintura\obj\Debug\empres_de_pintura.Gerente.resources
+C:\Users\VDamiao\Desktop\dupla 6.0\empres de pintura\empres de pintura\obj\Debug\empres_de_pintura.Funcionario.resources
+C:\Users\VDamiao\Desktop\dupla 6.0\empres de pintura\empres de pintura\obj\Debug\empres_de_pintura.Properties.Resources.resources
+C:\Users\VDamiao\Desktop\dupla 6.0\empres de pintura\empres de pintura\obj\Debug\empres de pintura.csproj.GenerateResource.Cache
+C:\Users\VDamiao\Desktop\dupla 6.0\empres de pintura\empres de pintura\obj\Debug\empres_de_pintura.CadCliente.resources
+C:\Users\VDamiao\Desktop\dupla 6.0\empres de pintura\empres de pintura\obj\Debug\empres_de_pintura.CadFunci.resources
+C:\Users\VDamiao\Desktop\dupla 6.0\empres de pintura\empres de pintura\obj\Debug\empres_de_pintura.Servicos.resources
+C:\Users\VDamiao\Desktop\dupla 6.0\empres de pintura\empres de pintura\obj\Debug\empres_de_pintura.RemoverCli.resources

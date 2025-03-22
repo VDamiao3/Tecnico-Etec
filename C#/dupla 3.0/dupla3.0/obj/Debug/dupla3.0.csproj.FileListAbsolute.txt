@@ -1,0 +1,9 @@
+H:\Etec JK\Técnico\Jeferson\dupla3.0\dupla3.0\bin\Debug\dupla3.0.exe.config
+K:\Etec JK\Técnico\Jeferson\dupla3.0\dupla3.0\bin\Debug\dupla3.0.exe.config
+K:\Etec JK\Técnico\Jeferson\dupla3.0\dupla3.0\obj\Debug\dupla3.0.csprojResolveAssemblyReference.cache
+D:\Etec JK\Técnico\Jeferson\dupla3.0\dupla3.0\bin\Debug\dupla3.0.exe.config
+D:\Etec JK\Técnico\Jeferson\dupla3.0\dupla3.0\obj\Debug\dupla3.0.csprojResolveAssemblyReference.cache
+K:\Etec JK\Técnico\Jeferson\dupla3.0\dupla3.0\bin\Debug\dupla3.0.exe
+K:\Etec JK\Técnico\Jeferson\dupla3.0\dupla3.0\bin\Debug\dupla3.0.pdb
+K:\Etec JK\Técnico\Jeferson\dupla3.0\dupla3.0\obj\Debug\dupla3.0.exe
+K:\Etec JK\Técnico\Jeferson\dupla3.0\dupla3.0\obj\Debug\dupla3.0.pdb

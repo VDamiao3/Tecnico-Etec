@@ -1,0 +1,10 @@
+F:\Etec JK\Técnico\Nelson\VB\livraria\livraria soberana\livraria soberana\bin\Debug\livraria soberana.exe.config
+F:\Etec JK\Técnico\Nelson\VB\livraria\livraria soberana\livraria soberana\bin\Debug\livraria soberana.exe
+F:\Etec JK\Técnico\Nelson\VB\livraria\livraria soberana\livraria soberana\bin\Debug\livraria soberana.pdb
+F:\Etec JK\Técnico\Nelson\VB\livraria\livraria soberana\livraria soberana\bin\Debug\livraria soberana.xml
+F:\Etec JK\Técnico\Nelson\VB\livraria\livraria soberana\livraria soberana\obj\Debug\livraria_soberana.Form1.resources
+F:\Etec JK\Técnico\Nelson\VB\livraria\livraria soberana\livraria soberana\obj\Debug\livraria_soberana.Resources.resources
+F:\Etec JK\Técnico\Nelson\VB\livraria\livraria soberana\livraria soberana\obj\Debug\livraria soberana.vbproj.GenerateResource.Cache
+F:\Etec JK\Técnico\Nelson\VB\livraria\livraria soberana\livraria soberana\obj\Debug\livraria soberana.exe
+F:\Etec JK\Técnico\Nelson\VB\livraria\livraria soberana\livraria soberana\obj\Debug\livraria soberana.xml
+F:\Etec JK\Técnico\Nelson\VB\livraria\livraria soberana\livraria soberana\obj\Debug\livraria soberana.pdb

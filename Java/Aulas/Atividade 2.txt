@@ -1,0 +1,42 @@
+/*
+Crie uma classe retangulo com os 
+metodos atea e perimetro. No metodo perimetro
+(soma dos lados) devea receber os atributos a,b,c,d
+e calcular o perimetro com base nesses valores.
+No metodo area(LarguraX altura ) devera receber os atriburos 1 e a e calcular a area com base nesses valores 
+crie um metodo principal para instanciar e 
+testas os metodos
+ */
+package test_ireport;
+import javax.swing.*;
+
+public class retangulo {
+    public static void perimetro (int a, int b, int c, int d)
+    {
+    int soma ;
+    soma= a+b+c+d;
+    JOptionPane.showMessageDialog(null,"soma de todos os lado é \n"+ soma);
+    }    
+    public static  void area (int L, int A)
+    {
+        int soma;
+    soma=L*A;
+    JOptionPane.showMessageDialog(null, soma);
+    }
+    public static void main(String args[])
+    {
+  JOptionPane.showMessageDialog(null,"Digite os valores para calcular o perimetro" );
+  perimetro(
+          Integer.parseInt(JOptionPane.showInputDialog("digite aresta 1")),
+          Integer.parseInt(JOptionPane.showInputDialog("digite aresta 2")),
+          Integer.parseInt(JOptionPane.showInputDialog("digite aresta 3")),
+          Integer.parseInt(JOptionPane.showInputDialog("digite aresta 4"))
+          );
+  JOptionPane.showMessageDialog(null,"Digite agora para calcular a área LXh");
+     area(
+     Integer.parseInt(JOptionPane.showInputDialog("digite o lado")),
+             Integer.parseInt(JOptionPane.showInputDialog("digite a altura"))
+     );
+  
+    }
+}

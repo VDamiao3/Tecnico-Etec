@@ -1,0 +1,35 @@
+{
+    Arrays: Um array  é uma sequência não ordenada de itens.
+
+    Todos os itens e um array tem o mesmo tipo, a
+
+o contrario dos campos em uma classe, que têm diferentes tipos.
+
+    Os itens em um array reside em um bloco contiguo da
+
+memória e são acessados por meio de um índice, ao contrário dos 
+
+campos em uma classe que são acessados pelo nome.
+
+    Você declara uma variável de array especificando o nome do tipo 
+
+de elemento segundo por um par de colchetes [],
+
+seguido pelo nome da variável.
+
+    Os colchetes significam que a variável 
+
+é um array. Por exemplo: int [] código, também
+                                
+é possível criar arrays de classes.
+
+
+Término: 17:30 18/04/2016
+
+}
+
+
+   O
+  /|\
+   |/
+  / \

@@ -1,0 +1,10 @@
+F:\Etec JK\Técnico\Nelson\VB\Aula1.4\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+F:\Etec JK\Técnico\Nelson\VB\Aula1.4\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\Etec JK\Técnico\Nelson\VB\Aula1.4\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\Etec JK\Técnico\Nelson\VB\Aula1.4\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\Etec JK\Técnico\Nelson\VB\Aula1.4\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+F:\Etec JK\Técnico\Nelson\VB\Aula1.4\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+F:\Etec JK\Técnico\Nelson\VB\Aula1.4\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+F:\Etec JK\Técnico\Nelson\VB\Aula1.4\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\Etec JK\Técnico\Nelson\VB\Aula1.4\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\Etec JK\Técnico\Nelson\VB\Aula1.4\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

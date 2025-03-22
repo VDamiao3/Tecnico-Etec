@@ -1,0 +1,15 @@
+H:\Etec JK\Jeferson\1° program 2016\1° program 2016\bin\Debug\1° program 2016.exe.config
+H:\Etec JK\Jeferson\1° program 2016\1° program 2016\bin\Debug\1° program 2016.exe
+H:\Etec JK\Jeferson\1° program 2016\1° program 2016\bin\Debug\1° program 2016.pdb
+H:\Etec JK\Jeferson\1° program 2016\1° program 2016\obj\Debug\1° program 2016.exe
+H:\Etec JK\Jeferson\1° program 2016\1° program 2016\obj\Debug\1° program 2016.pdb
+H:\Etec JK\Jeferson\1° program 2016\1° program 2016\obj\Debug\1° program 2016.csprojResolveAssemblyReference.cache
+L:\Etec JK\Jeferson\do jeje\1° program 2016\bin\Debug\1° program 2016.exe.config
+L:\Etec JK\Jeferson\do jeje\1° program 2016\obj\Debug\1° program 2016.exe
+L:\Etec JK\Jeferson\do jeje\1° program 2016\obj\Debug\1° program 2016.pdb
+H:\Etec JK\Técnico\Jeferson\do jeje\1° program 2016\bin\Debug\1° program 2016.exe.config
+H:\Etec JK\Técnico\Jeferson\do jeje\1° program 2016\obj\Debug\1° program 2016.exe
+H:\Etec JK\Técnico\Jeferson\do jeje\1° program 2016\obj\Debug\1° program 2016.pdb
+D:\Etec JK\Técnico\Jeferson\do jeje\1° program 2016\bin\Debug\1° program 2016.exe.config
+D:\Etec JK\Técnico\Jeferson\do jeje\1° program 2016\obj\Debug\1° program 2016.exe
+D:\Etec JK\Técnico\Jeferson\do jeje\1° program 2016\obj\Debug\1° program 2016.pdb

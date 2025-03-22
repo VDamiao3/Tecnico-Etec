@@ -1,0 +1,90 @@
+
+
+ 
+
+ create table telefone (
+     Tcod int primary key not null auto_increment,
+     Tres char(10),
+     Tcel char (11) not null );
+
+
+ create table endereco(
+     Ecod int primary key not null auto_increment,
+     Ecep char(8) not null,
+     Ebai varchar(20) not null,
+    Eest varchar(20) not null,
+    Ecid varchar(20) not null );
+
+
+create table endereco(
+    Ecod int primary key not null auto_increment,
+    Ecep char(8) not null,
+    Ebai varchar(20) not null,
+    Eest varchar(20) not null,
+    Ecid varchar(20) not null );
+
+
+create table endereco(
+    Ecod int primary key not null auto_increment,
+     Ecep char(8) not null,
+     Ebai varchar(20) not null,
+     Eest varchar(20) not null,
+     Ecid varchar(20) not null,
+     Ecom varchar(20) null,
+     Enum varchar(50) not null );
+
+
+ create table login (
+     Ccod int primary key not null auto_increment,
+    Usuario varchar(20) not null,
+     Senha varchar(20) not null);
+
+
+ create table cliente (
+     Ccod int primary key not null auto_increment,
+     Ccpf char(11) not null ,
+     Cnome varchar(20) not null,
+     Cdtnasc date ,
+     Crg char(11) null,
+     Ctelefone int,
+     foreign key (Ctelefone) references telefone(Tcod),
+     Cend int,
+     foreign key (Cend) references endereco(Ecod),
+     Clog int,
+     foreign key (Clog) references login(Ccod));
+
+ create table login (
+     Lcod int primary key not null auto_increment,
+     Usuario varchar(20) not null,
+     Senha varchar(20) not null);
+
+ create table cliente (
+     Ccod int primary key not null auto_increment,
+     Ccpf char(11) not null ,
+     Cnome varchar(20) not null,
+     Cdtnasc date ,
+     Crg char(11) null,
+     Ctelefone int,
+     foreign key (Ctelefone) references telefone(Tcod),
+     Cend int,
+     foreign key (Cend) references endereco(Ecod),
+     Clog int,
+     foreign key (Clog) references login(Lcod));
+
+
+ INSERT INTO login (Usuario,Senha) VALUES ('VDamiao3','123');;
+
+
+
+ INSERT INTO endereco(Ecep,Ebai,Eest,Ecid,Enum) VALUES(
+    -> '12345678','LUGAR NENHUM','ACRE ','INDISPONIVEL','000');
+
+
+
+ INSERT INTO telefone (Tres,Tcel) values ('1234567890','01123456789');
+
+
+ INSERT INTO cliente(Ccpf,Cnome,Cdtnasc,Crg,Ctelefone,Cend,Clog) VALUES(
+     '12345678901','Victor Damiao','19981124','01987654321','1','1','1');
+
+

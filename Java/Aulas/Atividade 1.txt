@@ -1,0 +1,237 @@
+Atividade 01 :
+import javax.swing.*;
+public class atividadedificil {
+    public static void main (String args[])
+    {
+   int a;
+    int b,c,d   ;
+   b= 3-2-1+1+3;
+    JOptionPane.showMessageDialog(null,b);
+    c= 2*3 -4 *5 ;
+    JOptionPane.showMessageDialog(null, c);
+    d=2+6-3/ 7*9;
+    JOptionPane.showMessageDialog(null,d);
+    a=3% 4-8;
+    JOptionPane.showMessageDialog(null, a);
+    }
+}
+
+
+Atividade 02 :
+/* 04 Implemente um programa que recebe repetidamente um numero de 1 a 12, enquanto
+esse numero faz diferente de
+ 0(zero) , e   impreome o mes correspondente  quando o numero estiver fora do
+intervalo permitido a mensagem
+"mes invalido " deverá ser exiba */
+import javax.swing.*;
+public class atividadedificil04 {
+public static void main (String args[])
+{
+int b = 0 ,c=1;
+    while(b!=c){
+        try{
+    JOptionPane.showMessageDialog(null,"Digite o numero do mês");
+     int mes = Integer.parseInt(JOptionPane.showInputDialog("\n 0- para sair"
+                    
+         + "\n1-Janeiro"
+         + "\n2-Fevereiro"
+         + "\n2-Março"
+         + "\n4-Abril"
+         + "\n5-Maio"
+         + "\n6-Junho"
+             + "\n7-Julho"
+             + "\n8-Agosto"
+             + "\n9-Semtembro"
+             + "\n10-Outrubro"
+             + "\n11-Novembro"
+             + "\n12-Dezembro"
+            
+   
+             ));
+         
+                 
+                 
+              if(mes<0 || mes>12){
+                   JOptionPane.showMessageDialog(null,"Mês inválido");   
+             }
+           if (b!=c){  
+               if(mes==1){
+               JOptionPane.showMessageDialog(null,"Janeiro");
+            
+             }
+             if(mes==2){
+                JOptionPane.showMessageDialog(null,"Fevereiro");
+             
+             }
+              if(mes==3){ 
+                 JOptionPane.showMessageDialog(null,"Março");
+             
+              }
+            if(mes==4){
+             JOptionPane.showMessageDialog(null,"Abril");
+             
+            }
+             if(mes==5){
+             JOptionPane.showMessageDialog(null,"Maio");
+             
+             }
+             if(mes==6){
+                 JOptionPane.showMessageDialog(null,"Julho");
+             
+             }
+              if(mes==7){
+             JOptionPane.showMessageDialog(null,"Junho");
+             
+              }
+              if(mes==8){
+              JOptionPane.showMessageDialog(null,"Agosto");
+              }
+              if(mes==9){
+              JOptionPane.showMessageDialog(null,"Setembro");}
+              if(mes==10){
+              JOptionPane.showMessageDialog(null,"Outubro");
+              }
+              if(mes==11){
+              JOptionPane.showMessageDialog(null,"Novembro");
+              }
+              if(mes==12){
+              JOptionPane.showMessageDialog(null,"Dezembro");
+              }
+              if (mes==0)
+              {
+              b=mes;
+              c=b;
+              }
+               }
+}
+               catch(NumberFormatException e)
+                       {
+                         
+                       JOptionPane.showMessageDialog(null,"digite apenas numeros");
+                       }
+               }
+}
+}
+
+
+Atividade 03 :
+
+/*03 altere o programa do exercício anterior para ficar  recebendo o numero 
+dentro de um laço enquanto o numero for diferente de 0 (zero)
+*/
+import javax.swing.*;
+public class atividadedificil03 {
+    public static void main (String args [])
+    {
+   
+
+    int b = 0 ,c=1;
+    while(b!=c){
+        try{
+    JOptionPane.showMessageDialog(null,"Digite um numero da semana");
+     int dia = Integer.parseInt(JOptionPane.showInputDialog("\n 0- para sair"
+                     + "\n1-Domingo"
+         + "\n2-Segunda"
+         + "\n3-Terça"
+         + "\n4-Quarta"
+         + "\n5-Quinta"
+         + "\n6-Sexta"
+         + "\n7-Sábado"
+   
+             ));
+         
+                 
+                 
+              if(dia<0 || dia>7){
+                   JOptionPane.showMessageDialog(null,"Dia inválido");   
+             }
+           if (b!=c){  
+               if(dia==1){
+               JOptionPane.showMessageDialog(null,"Domingo");
+            
+             }
+             if(dia==2){
+                JOptionPane.showMessageDialog(null,"Segunda");
+             
+             }
+              if(dia==3){ 
+                 JOptionPane.showMessageDialog(null,"Terça");
+             
+              }
+            if(dia==4){
+             JOptionPane.showMessageDialog(null,"Quarta");
+             
+            }
+             if(dia==5){
+             JOptionPane.showMessageDialog(null,"Quinta");
+             
+             }
+             if(dia==6){
+                 JOptionPane.showMessageDialog(null,"Sexta");
+             
+             }
+              if(dia==7){
+             JOptionPane.showMessageDialog(null,"Sábado");
+             
+              }
+              if (dia==0)
+              {
+              b=dia;
+              c=b;
+              }
+               }
+}
+               catch(NumberFormatException e)
+                       {
+                         
+                       JOptionPane.showMessageDialog(null,"digite apenas numeros");
+                       }
+               }}
+    }
+   
+
+Atividade 04:
+/*
+05 Escreva um laço while que execute 20 vezes imprimindo o valor da variavel
+x que inicialmente esta um valor 10
+converta este laço para um do-while
+ */
+import javax.swing.*;
+public class atividadedificil05 {
+    public static void main(String args[])
+    {
+    int x=10;   
+   
+  
+    while(x>=10 || x<20)
+    {
+        JOptionPane.showMessageDialog(null,x);
+        x=x+1;
+    }
+    }
+}
+  
+            Atividade 05:
+import javax.swing.*;
+public class atividadedificil05 {
+    public static void main(String args[])
+    {
+    int x=10;    int y;
+    while(x<31)
+    {
+   for (x=10;x<31;x++)
+   {
+       JOptionPane.showMessageDialog(null,x);
+      
+   }
+    }
+       
+   
+    for (y=10;y<31;y++){
+    do{
+        JOptionPane.showMessageDialog(null,y);
+       
+    }while(y<31);
+    }
+    }
+}

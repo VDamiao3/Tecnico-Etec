@@ -1,0 +1,12 @@
+G:\Etec JK\Jeferson\DAMIA1\DAMIA1\bin\Debug\DAMIA1.exe.config
+G:\Etec JK\Jeferson\DAMIA1\DAMIA1\bin\Debug\DAMIA1.exe
+G:\Etec JK\Jeferson\DAMIA1\DAMIA1\bin\Debug\DAMIA1.pdb
+G:\Etec JK\Jeferson\DAMIA1\DAMIA1\obj\Debug\DAMIA1.exe
+G:\Etec JK\Jeferson\DAMIA1\DAMIA1\obj\Debug\DAMIA1.pdb
+G:\Etec JK\Jeferson\DAMIA1\DAMIA1\obj\Debug\DAMIA1.csprojResolveAssemblyReference.cache
+D:\Etec JK\Técnico\Jeferson\DAMIA1\DAMIA1\bin\Debug\DAMIA1.exe.config
+D:\Etec JK\Técnico\Jeferson\DAMIA1\DAMIA1\obj\Debug\DAMIA1.exe
+D:\Etec JK\Técnico\Jeferson\DAMIA1\DAMIA1\obj\Debug\DAMIA1.pdb
+H:\Etec JK\Técnico\Jeferson\DAMIA1\DAMIA1\bin\Debug\DAMIA1.exe.config
+H:\Etec JK\Técnico\Jeferson\DAMIA1\DAMIA1\obj\Debug\DAMIA1.exe
+H:\Etec JK\Técnico\Jeferson\DAMIA1\DAMIA1\obj\Debug\DAMIA1.pdb

@@ -1,0 +1,10 @@
+c:\users\aluno\documents\visual studio 2013\Projects\Aula1.2\Aula1.2\bin\Debug\Aula1.2.exe.config
+c:\users\aluno\documents\visual studio 2013\Projects\Aula1.2\Aula1.2\obj\Debug\Aula1._2.Form1.resources
+c:\users\aluno\documents\visual studio 2013\Projects\Aula1.2\Aula1.2\obj\Debug\Aula1._2.Resources.resources
+c:\users\aluno\documents\visual studio 2013\Projects\Aula1.2\Aula1.2\obj\Debug\Aula1.2.vbproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2013\Projects\Aula1.2\Aula1.2\bin\Debug\Aula1.2.exe
+c:\users\aluno\documents\visual studio 2013\Projects\Aula1.2\Aula1.2\bin\Debug\Aula1.2.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\Aula1.2\Aula1.2\bin\Debug\Aula1.2.xml
+c:\users\aluno\documents\visual studio 2013\Projects\Aula1.2\Aula1.2\obj\Debug\Aula1.2.exe
+c:\users\aluno\documents\visual studio 2013\Projects\Aula1.2\Aula1.2\obj\Debug\Aula1.2.xml
+c:\users\aluno\documents\visual studio 2013\Projects\Aula1.2\Aula1.2\obj\Debug\Aula1.2.pdb

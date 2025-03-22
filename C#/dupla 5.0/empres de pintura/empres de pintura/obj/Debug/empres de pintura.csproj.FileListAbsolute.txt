@@ -1,0 +1,39 @@
+c:\users\aluno\documents\visual studio 2013\Projects\empres de pintura\empres de pintura\bin\Debug\empres de pintura.exe.config
+c:\users\aluno\documents\visual studio 2013\Projects\empres de pintura\empres de pintura\bin\Debug\empres de pintura.exe
+c:\users\aluno\documents\visual studio 2013\Projects\empres de pintura\empres de pintura\bin\Debug\empres de pintura.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\empres de pintura\empres de pintura\obj\Debug\empres de pintura.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2013\Projects\empres de pintura\empres de pintura\obj\Debug\empres_de_pintura.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2013\Projects\empres de pintura\empres de pintura\obj\Debug\empres de pintura.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2013\Projects\empres de pintura\empres de pintura\obj\Debug\empres de pintura.exe
+c:\users\aluno\documents\visual studio 2013\Projects\empres de pintura\empres de pintura\obj\Debug\empres de pintura.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\empres de pintura\empres de pintura\obj\Debug\empres_de_pintura.Login.resources
+c:\users\aluno\documents\visual studio 2013\Projects\empres de pintura\empres de pintura\obj\Debug\empres_de_pintura.Gerente.resources
+c:\users\aluno\documents\visual studio 2013\Projects\empres de pintura\empres de pintura\obj\Debug\empres_de_pintura.Funcionario.resources
+H:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\bin\Debug\empres de pintura.exe.config
+H:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\obj\Debug\empres de pintura.exe
+H:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\obj\Debug\empres de pintura.pdb
+K:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\bin\Debug\empres de pintura.exe.config
+K:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\obj\Debug\empres de pintura.exe
+K:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\obj\Debug\empres de pintura.pdb
+K:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\bin\Debug\empres de pintura.exe
+K:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\bin\Debug\empres de pintura.pdb
+K:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\obj\Debug\empres de pintura.csprojResolveAssemblyReference.cache
+K:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\obj\Debug\empres_de_pintura.Login.resources
+K:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\obj\Debug\empres_de_pintura.Gerente.resources
+K:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\obj\Debug\empres_de_pintura.Funcionario.resources
+K:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\obj\Debug\empres_de_pintura.Properties.Resources.resources
+K:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\obj\Debug\empres de pintura.csproj.GenerateResource.Cache
+E:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\bin\Debug\empres de pintura.exe.config
+E:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\obj\Debug\empres de pintura.exe
+E:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\obj\Debug\empres de pintura.pdb
+E:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\bin\Debug\empres de pintura.exe
+E:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\bin\Debug\empres de pintura.pdb
+E:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\obj\Debug\empres de pintura.csprojResolveAssemblyReference.cache
+E:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\obj\Debug\empres_de_pintura.Login.resources
+E:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\obj\Debug\empres_de_pintura.Gerente.resources
+E:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\obj\Debug\empres_de_pintura.Funcionario.resources
+E:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\obj\Debug\empres_de_pintura.Properties.Resources.resources
+E:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\obj\Debug\empres de pintura.csproj.GenerateResource.Cache
+I:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\bin\Debug\empres de pintura.exe.config
+I:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\obj\Debug\empres de pintura.exe
+I:\Etec JK\Técnico\Jeferson\dupla 5.0\empres de pintura\empres de pintura\obj\Debug\empres de pintura.pdb

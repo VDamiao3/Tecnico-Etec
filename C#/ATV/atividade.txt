@@ -1,0 +1,105 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SofCalc
+{
+    class Calculadora
+    {
+        public string operacao;
+
+        public float Soma(float a, float b)
+        {
+            float c;
+            c = a + b;
+            return c;
+        }
+        public float Subtracao(float a, float b)
+        {
+            float c;
+            c = a - b;
+            return c;
+        }
+        public float Multiplicacao(float a, float b)
+        {
+            float c;
+            c = a * b;
+            return c;
+        }
+        public float Divisao(float a,float b)
+        {
+            float c;
+            if (b == 0) { Console.WriteLine("0 não se dividi"); }
+                c = a / b;
+            
+            return c;
+        }
+    }
+}
+
+
+
+-----------program .cs----------------------------
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using static System.Net.Mime.MediaTypeNames;
+
+namespace ConsoleApplication1
+{
+    class Program
+    {
+        private static string valor1;
+        private static string valor2;
+
+        static void Main(string[] args)
+        {
+            
+            calculadora conta;
+            conta = new calculadora();
+
+            float result, x, y;
+            x = float.Parse(Console.ReadLine());
+            y = float.Parse(Console.ReadLine());
+            switch(operacao)
+            {
+                case (1):
+                    result = conta.soma(x, y);
+                    Console.WriteLine(result);
+                    break;
+                case (2):
+                    result = conta.subi(x, y);
+                    Console.WriteLine(result);
+                    break;
+
+                case (3):
+                    result = conta.multi(x, y);
+                    break;
+
+                case (4):
+                    result = conta.divi(x, y);
+                    if (y == 0)
+                    {
+                        Console.WriteLine("0 não é um numero divisivel");
+                    }
+                    else {
+                        Console.WriteLine(result);
+                    }
+                    break;
+            }
+            
+            
+    }
+  }
+}
+        
+
+
+
+

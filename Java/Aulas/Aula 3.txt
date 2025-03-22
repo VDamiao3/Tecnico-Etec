@@ -1,0 +1,38 @@
+package aula3;
+import javax.swing.*;
+
+public class atividade2 {
+    public static void main(String arg[]  )
+    {
+    int nota;
+        nota=Integer.parseInt
+        (
+        JOptionPane.showInputDialog("digite o valor da nota  ")
+        );
+    
+        
+        if(nota<0 || nota>10)
+                {
+            JOptionPane.showMessageDialog(null,"Nota invalida");
+            
+            
+            }
+                
+         else if (nota<5)
+    {
+    JOptionPane.showMessageDialog(null,"reprovado");
+    }
+       else if (nota>7)
+         {
+         JOptionPane.showMessageDialog(null,"aprovado");
+         
+         }
+         else if (nota<7 || nota>=5)
+    {
+    JOptionPane.showMessageDialog(null,"Exame");
+    
+    
+    }
+        
+    }
+}

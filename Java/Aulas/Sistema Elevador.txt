@@ -1,0 +1,66 @@
+package atv2;
+
+import javax.swing.JOptionPane;
+
+
+public class Atv2 {
+
+   
+    public static void main(String[] args) {
+       int andar;
+      int pessoas=0;
+      int elevador=0;
+      int quantAlta=0;
+      int saida=0;
+      int chao=0;
+      int topo=0;
+      int serAtual=0;
+
+       
+      andar=Integer.parseInt(JOptionPane.showInputDialog(null,"digite o numero de andares"));
+      
+      
+      do{
+          
+      pessoas=Integer.parseInt(JOptionPane.showInputDialog(null,"digite o numero de pessoas que entraram no andar\n "+topo));
+      serAtual=pessoas+serAtual;
+      saida=Integer.parseInt(JOptionPane.showInputDialog(null,"digite o numero de pessoas que sairam no andar\n "+topo));
+      elevador = serAtual - saida;
+      
+      if(elevador>15)
+      {
+      quantAlta=elevador-15;
+      JOptionPane.showMessageDialog(null,"Cuidado excesso de peso.... deve sair "+quantAlta);
+      serAtual=elevador;
+      }else{
+         
+          topo++;
+      }
+      }while(andar!=topo);
+       
+      
+      JOptionPane.showMessageDialog(null,"ficaram "+pessoas+" descendo");
+      
+     do{
+          chao=andar;
+      pessoas=Integer.parseInt(JOptionPane.showInputDialog(null,"digite o numero de pessoas que entraram no andar\n "+chao));
+      serAtual=pessoas+serAtual;
+      saida=Integer.parseInt(JOptionPane.showInputDialog(null,"digite o numero de pessoas que sairam no andar\n "+chao));
+      elevador = serAtual - saida;
+      
+      if(elevador>15)
+      {
+      quantAlta=elevador-15;
+      JOptionPane.showMessageDialog(null,"Cuidado excesso de peso.... deve sair "+quantAlta);
+      serAtual=elevador;
+      }else{
+         
+          chao--;
+      }
+      }while(andar!=0);
+      
+      
+    }
+      }
+    
+    

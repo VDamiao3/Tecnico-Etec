@@ -1,0 +1,10 @@
+c:\users\aluno\documents\visual studio 2013\Projects\primeiraAula\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\aluno\documents\visual studio 2013\Projects\primeiraAula\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\aluno\documents\visual studio 2013\Projects\primeiraAula\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\primeiraAula\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\aluno\documents\visual studio 2013\Projects\primeiraAula\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+c:\users\aluno\documents\visual studio 2013\Projects\primeiraAula\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\aluno\documents\visual studio 2013\Projects\primeiraAula\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2013\Projects\primeiraAula\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\aluno\documents\visual studio 2013\Projects\primeiraAula\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\aluno\documents\visual studio 2013\Projects\primeiraAula\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

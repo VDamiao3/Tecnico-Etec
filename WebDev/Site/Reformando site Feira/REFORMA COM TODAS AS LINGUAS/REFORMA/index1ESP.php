@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html class="csstransforms no-csstransforms3d csstransitions"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<title>Responsive Drop Down Menu jQuery CSS3 Using Icon Symbol</title>
+	<link rel="stylesheet" type="text/css" href="css/font-awesome.css">
+	<link rel="stylesheet" type="text/css" href="css/menu.css">
+    
+	<script type="text/javascript" src="../responsive-drop-down-menu-jquery-css3-using-icon-symbol/js/jquery.js"></script>
+	<script type="text/javascript" src="../responsive-drop-down-menu-jquery-css3-using-icon-symbol/js/function.js"></script>
+
+ <link rel="stylesheet" href="css/example.css">
+  <link rel="stylesheet" href="css/font-awesome.min.css">
+
+</head>
+<body>
+<div id="marca" align="center"
+                   style="float:left;
+                   width: 100% ;
+                   height:auto;
+                   background-color:white;
+                   margin-top:auto;
+                   padding-right: 180px;">
+                   
+                  <h1 class="marca">
+       <a href="index1ESP.php"><img src="images/logo/logo1.png"  height="80px"/></a>
+       <a href="index1ESP.php"><img src="images/logo/logo2.png" /></a>
+        <a href="index1ESP.php"><img src="images/logo/logo3.png" /></a>
+                  
+                  <div align="right" style="float:right; background-color:white">
+            <a href="index.htm"><img src="images/botao/botao BR.png"width="50" height="50"></a><a href="index1USA.php" ><img src="images/botao/botao EUA.jpg" width="50" height="50"></a>
+           <a href="index1ESP.php"><img src="images/botao/botao ESP.jpg" width="50" height="50"></a>
+          <a href="index1COR.php"><img src="images/botao/botao CO.png" width="50" height="50"></a>
+                  </div>
+                  </h1>
+                  
+                  
+                  
+<div id="wrap">
+	<header>
+		<div class="inner relative" style="height:80px">
+			
+			<a id="menu-toggle" class="button dark" href="#"><i class="icon-reorder"></i></a>
+			<nav id="navigation">
+				<ul id="main-menu">
+						<li class="current-menu-item"><a href="index1ESP.php">Casa</a></li>
+					<li><a href="index2ESP.php">Bolsas de Cuero</a></li>
+					
+					<li><a href="index3ESP.php">Bolsas de tejido</a></li>
+                    <li><a href="index4ESP.php">carteras de las mujeres</a></li>
+                    <li><a href="index5ESP.php">Necessaries</a></li>
+					<li class="parent">
+						<a href="">El Blog</a>
+						<ul class="sub-menu">
+							<li><a href="https://www.facebook.com/madreflorateliedebolsas/">Facebook</a></li>
+							<li><a href=
+ "https://www.instagram.com/Madre_Flor_Bolsas/">Instagram</a></li>
+							<li><a href="
+ https://plus.google.com/Madre%20Flor%20Bolsas">Google +</a></li>
+							
+						</ul>
+					</li>
+					<li class="parent">
+						<a href="">Contacto</a>
+						<ul class="sub-menu">
+							<li><a href="">Email</a></li>
+							<li><a href="">WhatsApp</a></li>
+							<li><a href="">hable con Nosotros</a></li>
+						</ul>
+					</li>
+			</nav>
+			<div class="clear"></div>
+		</div>
+	</header>	
+</div>    
+
+ <style>
+    body {
+      -webkit-font-smoothing: antialiased;
+      font: normal 15px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+      color: #232525;
+      padding-top:0px;
+    }
+
+    #slides {
+      display: none
+    }
+
+    #slides .slidesjs-navigation {
+      margin-top:5px;
+    }
+
+    a.slidesjs-next,
+    a.slidesjs-previous,
+    a.slidesjs-play,
+    a.slidesjs-stop {
+      background-image: url(img/btns-next-prev.png);
+      background-repeat: no-repeat;
+      display:block;
+      width:12px;
+      height:18px;
+      overflow: hidden;
+      text-indent: -9999px;
+      float: left;
+      margin-right:5px;
+    }
+
+    a.slidesjs-next {
+      margin-right:10px;
+      background-position: -12px 0;
+    }
+
+    a:hover.slidesjs-next {
+      background-position: -12px -18px;
+    }
+
+    a.slidesjs-previous {
+      background-position: 0 0;
+    }
+
+    a:hover.slidesjs-previous {
+      background-position: 0 -18px;
+    }
+
+    a.slidesjs-play {
+      width:15px;
+      background-position: -25px 0;
+    }
+
+    a:hover.slidesjs-play {
+      background-position: -25px -18px;
+    }
+
+    a.slidesjs-stop {
+      width:18px;
+      background-position: -41px 0;
+    }
+
+    a:hover.slidesjs-stop {
+      background-position: -41px -18px;
+    }
+
+    .slidesjs-pagination {
+      margin: 7px 0 0;
+      float: right;
+      list-style: none;
+    }
+
+    .slidesjs-pagination li {
+      float: left;
+      margin: 0 1px;
+    }
+
+    .slidesjs-pagination li a {
+      display: block;
+      width: 13px;
+      height: 0;
+      padding-top: 13px;
+      background-image: url(img/pagination.png);
+      background-position: 0 0;
+      float: left;
+      overflow: hidden;
+    }
+
+    .slidesjs-pagination li a.active,
+    .slidesjs-pagination li a:hover.active {
+      background-position: 0 -13px
+    }
+
+    .slidesjs-pagination li a:hover {
+      background-position: 0 -26px
+    }
+
+    #slides a:link,
+    #slides a:visited {
+      color: #333
+    }
+
+    #slides a:hover,
+    #slides a:active {
+      color: #9e2020
+    }
+
+    .navbar {
+      overflow: hidden
+    }
+  </style>
+  <!-- End SlidesJS Optional-->
+
+  <!-- SlidesJS Required: These styles are required if you'd like a responsive slideshow -->
+  <style>
+    #slides {
+      display: none
+    }
+
+    .container {
+      margin: 0 auto
+    }
+
+    /* For tablets & smart phones */
+    @media (max-width: 767px) {
+      body {
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+      .container {
+        width: auto
+      }
+    }
+
+    /* For smartphones */
+    @media (max-width: 480px) {
+      .container {
+        width: auto
+      }
+    }
+
+    /* For smaller displays like laptops */
+    @media (min-width: 768px) and (max-width: 979px) {
+      .container {
+        width: 724px
+      }
+    }
+
+    /* For larger displays */
+    @media (min-width: 1200px) {
+      .container {
+        width: 1170px
+      }
+    }
+  </style>
+  <!-- SlidesJS Required: -->
+  <div class="container">
+    <div id="slides">
+     <img src="images/imagem 2.jpg"/>
+     <img src="images/imagem4.jpg" />
+     <img src="images/imagem1.jpg" />
+     <img src="images/imagem3.jpg" />
+     
+    </div>
+  </div>
+  <!-- End SlidesJS Required: Start Slides -->
+
+  <!-- SlidesJS Required: Link to jQuery -->
+  <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+  <!-- End SlidesJS Required -->
+
+  <!-- SlidesJS Required: Link to jquery.slides.js -->
+  <script src="js/jquery.slides.min.js"></script>
+  <!-- End SlidesJS Required -->
+
+  <!-- SlidesJS Required: Initialize SlidesJS with a jQuery doc ready -->
+  <script>
+    $(function() {
+      $('#slides').slidesjs({
+        width: 940,
+        height: 528,
+        play: {
+          active: true,
+          auto: true,
+          interval: 4000,
+          swap: true
+        }
+      });
+    });
+  </script>
+ 
+ <div id="final" style="
+ 
+  left:0px;
+    position:absolute;
+    width:100%;
+    height:175px;
+    margin-top:50px;/* AQUI MUDA ATE ONDE VAI O PRETO*/
+    background-color:#333333;     
+    ">
+        
+          </div>
+</body></html>

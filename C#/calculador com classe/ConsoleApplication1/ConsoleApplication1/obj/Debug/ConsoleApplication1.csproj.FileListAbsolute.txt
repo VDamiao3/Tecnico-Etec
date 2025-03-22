@@ -1,0 +1,4 @@
+E:\Etec JK\Técnico\Jeferson\calculador com classe\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+L:\Etec JK\Técnico\Jeferson\calculador com classe\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+L:\Etec JK\Técnico\Jeferson\calculador com classe\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\Etec JK\Técnico\Jeferson\calculador com classe\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config

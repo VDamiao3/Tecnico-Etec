@@ -1,0 +1,66 @@
+package aula3;
+
+import javax.swing.*;
+
+public class atividade03 {
+    /* Faça um programa que calcule a gratificaçao que um funcionário deve receberde acordo com seu
+    cargo! seguindo o critério a seguir:
+    * Solicite ao usuário que informe seu cargo:
+    1 para gerentee 2 para operador
+    * Em seguida solicite o valor do salario do funcionário
+    *se for um gerente, a qualificação deve ser de 20% (0,02) do salario
+    * se for um operador, a qualificação deve ser do 12%(0,12)
+    *mostre para o usuario o quanto ele receberá salario + gratificação 
+*/
+    
+   public static void main (String arg [])
+   {
+    double salario = 0,gratificacao; 
+   int cargo;
+   
+     cargo=Integer.parseInt
+        (
+        JOptionPane.showInputDialog(null,
+                "1 - gerente"
+                        + "\n2 -operador"));
+          if(cargo <0 || cargo >2 )
+          {
+             JOptionPane.showMessageDialog(null," INVALIDO ");
+             
+         }
+       
+switch(cargo)
+{
+    case 1:
+        JOptionPane.showMessageDialog(null,"olá gerente");
+         
+       salario=Double.parseDouble(
+                 
+                 JOptionPane.showInputDialog(null,"digite o valor do seu salario "));
+      
+       gratificacao=salario*0.2;  
+        JOptionPane.showMessageDialog
+        (null, "seu salário é \n"+salario+"\n mais a gratificação \n"+gratificacao );
+        JOptionPane.showMessageDialog
+                (null,"totalizando\n"+(gratificacao+salario));
+                
+        break;
+    case 2:
+     JOptionPane.showMessageDialog (null,"olá operador");
+     salario= Integer.parseInt(
+                 JOptionPane.showInputDialog(null,"digite o valor do seu salario"));
+    gratificacao=salario*0.12;
+     JOptionPane.showMessageDialog(null,"seu salário é\n"+salario+"\n mais a gratificação\n"+gratificacao );
+     JOptionPane.showMessageDialog
+                (null,"totalizando \n"+(gratificacao+salario));
+                   
+     break;
+    case 3:
+    {
+        JOptionPane.showMessageDialog(null," INVALIDO ");
+         };
+        }
+       
+}
+
+}

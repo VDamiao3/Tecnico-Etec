@@ -1,0 +1,95 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using MySql.Data.MySqlClient;//utilização da biblioteca do banco de dados
+//MySql
+
+
+namespace CsharpcomMysql
+{
+    public partial class Form1 : Form
+    {
+        //Criando uma variável do tipo conexão para receber a conexão
+        //com o banco de dados MySql
+        MySqlConnection bdCon;
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+          bdCon = new MySqlConnection("server=localhost;database=escola; uid=root; PASSWORD=vertrigo");
+          MySqlCommand bdComan = bdCon.CreateCommand();
+          
+            try
+          {
+              bdCon.Open();
+          }
+          catch
+          {
+              MessageBox.Show("Conexão falhou");
+          }
+
+bdComan.CommandText="insert into aluno(AluNome) values('"+textBox1.Text+"')";
+          bdComan.BeginExecuteNonQuery();
+          MessageBox.Show("Cadastrado sucesso");
+          
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            bdCon = new MySqlConnection("server=localhost;database=escola; uid=root; PASSWORD=vertrigo");
+            MySqlCommand bdComan = bdCon.CreateCommand();
+           
+            bdComan.CommandText = "Select * from aluno where AluCod = "+textBox2.Text;
+            try
+            {
+                bdCon.Open();
+            }
+            catch
+            {
+                MessageBox.Show("Conexão falhou");
+            }
+            MySqlDataReader bdLeitura = bdComan.ExecuteReader();
+
+            while (bdLeitura.Read())
+            {
+                MessageBox.Show(bdLeitura["AluCod"].ToString()+
+                    "\n"+bdLeitura["AluNome"].ToString());
+            }
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            bdCon = new MySqlConnection("server=localhost;database=escola; uid=root; PASSWORD=vertrigo");
+            MySqlCommand bdComan = bdCon.CreateCommand();
+
+            try
+            {
+                bdCon.Open();
+            }
+            catch
+            {
+                MessageBox.Show("Conexão falhou");
+            }
+
+            bdComan.CommandText = "delete from aluno where AluCod = "+textBox2.Text;
+            bdComan.BeginExecuteNonQuery();
+            MessageBox.Show("Apagado sucesso");
+        }
+    }
+}

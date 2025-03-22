@@ -1,0 +1,6 @@
+G:\Etec JK\Jeferson\satanParse\satanParse\bin\Debug\satanParse.exe.config
+G:\Etec JK\Jeferson\satanParse\satanParse\bin\Debug\satanParse.exe
+G:\Etec JK\Jeferson\satanParse\satanParse\bin\Debug\satanParse.pdb
+G:\Etec JK\Jeferson\satanParse\satanParse\obj\Debug\satanParse.csprojResolveAssemblyReference.cache
+G:\Etec JK\Jeferson\satanParse\satanParse\obj\Debug\satanParse.exe
+G:\Etec JK\Jeferson\satanParse\satanParse\obj\Debug\satanParse.pdb

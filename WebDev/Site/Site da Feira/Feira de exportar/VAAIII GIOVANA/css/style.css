@@ -1,0 +1,78 @@
+#nav{
+    height:35px;
+    border-bottom:1px solid #ddd;
+    position:fixed;                    /* CODIGO DO MENU FIXED*/
+    top:0px;
+    left:0px;
+    right:0px;
+    background:#fff url(../images/nav.png) repeat-x center left;
+    width: 100%;
+    
+}
+#nav ul{
+    height:25px;
+    list-style:none;
+    margin:6px auto 0px auto;
+    width:510px;  
+    
+    
+}
+#nav ul li{/* AQUI MEXE NOS BOTOES DA DIV*/ 
+    display:inline;
+    float: right;
+    margin:0px 2px;
+}
+#nav a{
+    font-size:11px;
+    font-weight:bold; /* TIPO DA FONTE*/
+    float: right;
+    padding: 2px 4px;
+    color:#999;  /* AQUI MUDA A COR DA LETRAS DA BARRA DE PESQUISA */
+    text-decoration: none;
+    border:1px solid #ccc;/* BORDA DA BARRA DE PESQUISAs*/
+    cursor: pointer;
+    background:transparent url(../images/overlay.png) repeat-x center left;
+    height:16px;/* ALTURA DA CAIXA */
+    line-height:16px; /*muda ONDE FICA O TEXTO DA CAIXA*/
+   
+}
+#nav a:hover{
+    background:#D9D9DA none;
+    color: #fff;
+   
+}
+#nav a.top span, #nav a.bottom span{
+    float: right;
+    width:16px;
+    height:16px;
+}
+#nav a.top span{
+    background:transparent url(../images/top.png) no-repeat center center;
+}
+#nav a.bottom span{
+    background:transparent url(../images/bottom.png) no-repeat center center;
+
+}
+
+#nav ul li.search{
+    float:left;
+}
+#nav input[type="text"]{/* INPUT É ONDE O USUARIO VAI DIGITAR O QUE VAI PESQUISAR*/
+    float: left;
+    border:1px solid #ccc;
+    margin:0px/*ALTURA*/ 1px/*ALTURA DO BOTAO*/ 0px 50px;
+    padding:2px 2px 2px 2px;
+}
+input.searchbutton{/*  AQUI É O BOTAO  DE PROCURA*/
+    border:1px solid #ccc;
+    padding:1px;
+    cursor:pointer;
+    width:80px;
+	height:22px;
+    background:#E8E9EA url(../images/search.png) no-repeat center center;
+    margin-top: -1px;
+    float: right;
+}
+input.searchbutton:hover{
+    background-color:#D9D9DA;
+}

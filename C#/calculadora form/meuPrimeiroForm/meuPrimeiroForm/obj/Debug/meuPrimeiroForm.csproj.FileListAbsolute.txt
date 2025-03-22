@@ -1,0 +1,15 @@
+H:\Etec JK\Técnico\Jeferson\primeiroform\meuPrimeiroForm\meuPrimeiroForm\bin\Debug\meuPrimeiroForm.exe.config
+H:\Etec JK\Técnico\Jeferson\primeiroform\meuPrimeiroForm\meuPrimeiroForm\bin\Debug\meuPrimeiroForm.exe
+H:\Etec JK\Técnico\Jeferson\primeiroform\meuPrimeiroForm\meuPrimeiroForm\bin\Debug\meuPrimeiroForm.pdb
+H:\Etec JK\Técnico\Jeferson\primeiroform\meuPrimeiroForm\meuPrimeiroForm\obj\Debug\meuPrimeiroForm.csprojResolveAssemblyReference.cache
+H:\Etec JK\Técnico\Jeferson\primeiroform\meuPrimeiroForm\meuPrimeiroForm\obj\Debug\meuPrimeiroForm.Properties.Resources.resources
+H:\Etec JK\Técnico\Jeferson\primeiroform\meuPrimeiroForm\meuPrimeiroForm\obj\Debug\meuPrimeiroForm.csproj.GenerateResource.Cache
+H:\Etec JK\Técnico\Jeferson\primeiroform\meuPrimeiroForm\meuPrimeiroForm\obj\Debug\meuPrimeiroForm.exe
+H:\Etec JK\Técnico\Jeferson\primeiroform\meuPrimeiroForm\meuPrimeiroForm\obj\Debug\meuPrimeiroForm.pdb
+H:\Etec JK\Técnico\Jeferson\primeiroform\meuPrimeiroForm\meuPrimeiroForm\obj\Debug\meuPrimeiroForm.calculadora.resources
+K:\Etec JK\Técnico\Jeferson\calculadora form\meuPrimeiroForm\meuPrimeiroForm\bin\Debug\meuPrimeiroForm.exe.config
+K:\Etec JK\Técnico\Jeferson\calculadora form\meuPrimeiroForm\meuPrimeiroForm\obj\Debug\meuPrimeiroForm.exe
+K:\Etec JK\Técnico\Jeferson\calculadora form\meuPrimeiroForm\meuPrimeiroForm\obj\Debug\meuPrimeiroForm.pdb
+F:\Etec JK\Técnico\Jeferson\calculadora form\meuPrimeiroForm\meuPrimeiroForm\bin\Debug\meuPrimeiroForm.exe.config
+F:\Etec JK\Técnico\Jeferson\calculadora form\meuPrimeiroForm\meuPrimeiroForm\obj\Debug\meuPrimeiroForm.exe
+F:\Etec JK\Técnico\Jeferson\calculadora form\meuPrimeiroForm\meuPrimeiroForm\obj\Debug\meuPrimeiroForm.pdb

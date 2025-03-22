@@ -1,0 +1,26 @@
+c:\users\aluno\documents\visual studio 2013\Projects\cadastro\cadastro\bin\Debug\cadastro.exe.config
+c:\users\aluno\documents\visual studio 2013\Projects\cadastro\cadastro\bin\Debug\cadastro.exe
+c:\users\aluno\documents\visual studio 2013\Projects\cadastro\cadastro\bin\Debug\cadastro.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\cadastro\cadastro\bin\Debug\cadastro.xml
+c:\users\aluno\documents\visual studio 2013\Projects\cadastro\cadastro\obj\Debug\cadastro.Form1.resources
+c:\users\aluno\documents\visual studio 2013\Projects\cadastro\cadastro\obj\Debug\cadastro.Resources.resources
+c:\users\aluno\documents\visual studio 2013\Projects\cadastro\cadastro\obj\Debug\cadastro.warn.resources
+c:\users\aluno\documents\visual studio 2013\Projects\cadastro\cadastro\obj\Debug\cadastro.vbproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2013\Projects\cadastro\cadastro\obj\Debug\cadastro.exe
+c:\users\aluno\documents\visual studio 2013\Projects\cadastro\cadastro\obj\Debug\cadastro.xml
+c:\users\aluno\documents\visual studio 2013\Projects\cadastro\cadastro\obj\Debug\cadastro.pdb
+F:\Etec JK\Técnico\Nelson\VB\cadastro\cadastro\bin\Debug\cadastro.exe.config
+F:\Etec JK\Técnico\Nelson\VB\cadastro\cadastro\obj\Debug\cadastro.exe
+F:\Etec JK\Técnico\Nelson\VB\cadastro\cadastro\obj\Debug\cadastro.xml
+F:\Etec JK\Técnico\Nelson\VB\cadastro\cadastro\obj\Debug\cadastro.pdb
+F:\Etec JK\Técnico\Nelson\VB\cadastro\cadastro\bin\Debug\cadastro.exe
+F:\Etec JK\Técnico\Nelson\VB\cadastro\cadastro\bin\Debug\cadastro.pdb
+F:\Etec JK\Técnico\Nelson\VB\cadastro\cadastro\bin\Debug\cadastro.xml
+F:\Etec JK\Técnico\Nelson\VB\cadastro\cadastro\obj\Debug\cadastro.Form1.resources
+F:\Etec JK\Técnico\Nelson\VB\cadastro\cadastro\obj\Debug\cadastro.Form2.resources
+F:\Etec JK\Técnico\Nelson\VB\cadastro\cadastro\obj\Debug\cadastro.Resources.resources
+F:\Etec JK\Técnico\Nelson\VB\cadastro\cadastro\obj\Debug\cadastro.warn.resources
+F:\Etec JK\Técnico\Nelson\VB\cadastro\cadastro\obj\Debug\cadastro.vbproj.GenerateResource.Cache
+F:\Etec JK\Técnico\Nelson\VB\cadastro\cadastro\obj\Debug\cadastro.Form3.resources
+F:\Etec JK\Técnico\Nelson\VB\cadastro\cadastro\obj\Debug\cadastro.AboutBox1.resources
+F:\Etec JK\Técnico\Nelson\VB\cadastro\cadastro\obj\Debug\cadastro.SplashScreen1.resources

@@ -1,0 +1,14 @@
+c:\users\aluno\documents\visual studio 2013\Projects\login\login\bin\Debug\login.exe.config
+c:\users\aluno\documents\visual studio 2013\Projects\login\login\obj\Debug\login.Form1.resources
+c:\users\aluno\documents\visual studio 2013\Projects\login\login\obj\Debug\login.Resources.resources
+c:\users\aluno\documents\visual studio 2013\Projects\login\login\obj\Debug\login.vbproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2013\Projects\login\login\bin\Debug\login.exe
+c:\users\aluno\documents\visual studio 2013\Projects\login\login\bin\Debug\login.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\login\login\bin\Debug\login.xml
+c:\users\aluno\documents\visual studio 2013\Projects\login\login\obj\Debug\login.exe
+c:\users\aluno\documents\visual studio 2013\Projects\login\login\obj\Debug\login.xml
+c:\users\aluno\documents\visual studio 2013\Projects\login\login\obj\Debug\login.pdb
+F:\Etec JK\Técnico\Nelson\VB\login\login\bin\Debug\login.exe.config
+F:\Etec JK\Técnico\Nelson\VB\login\login\obj\Debug\login.exe
+F:\Etec JK\Técnico\Nelson\VB\login\login\obj\Debug\login.xml
+F:\Etec JK\Técnico\Nelson\VB\login\login\obj\Debug\login.pdb
